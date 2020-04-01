@@ -1,0 +1,157 @@
+.dialog{
+  width: 1500px;
+}
+.middle{
+  width: 800px;
+  height: 350px;
+  margin-left: 60px;
+  /*  height: 660px;*/
+  /* background: #d9d9d9;*/
+}
+.middle .middle_top{
+  width: 1000px;
+  height: 240px;
+}
+.iszuhuornot{
+  align-items: center;
+  padding: 5px;
+}
+.middle .middle_top .middle_left{
+  float:left;
+  width: 280px;
+}
+.middle .middle_top .middle_left .elformitem{
+  text-align: left;
+}
+.middle .middle_top .middle_right{
+  float:left;
+  width: 200px;
+  height: 220px;
+  margin-left: 100px;
+  text-align: center;
+  /* border: #a6ffeb solid 1px;*/
+}
+.img{
+  width: 150px;
+  height: 150px;
+  margin-top: 10px;
+  margin-left: 30px;
+
+}
+.userimg{
+  margin-top: 15px;
+
+}
+.middle .middle_top .middle_right .imgdes{
+  margin-top: 20px;
+  margin-left: 32px;
+  color: rosybrown;
+
+}
+
+.middle .middle_bottom{
+  clear: both;
+  width: 900px;
+  height:150px;
+  margin-top: 10px;
+  align-items: center;
+}
+.middle .middle_bottom .bottomtop{
+  width: 900px;
+}
+.middle .middle_bottom .bottomtop .bottomleft{
+  float: left;
+  width: 280px;
+  height: 30px;
+
+}
+.middle .middle_bottom .bottomtop .bottomright{
+  float: left;
+  width: 280px;
+  height: 30px;
+}
+.middle .middle_bottom .bottomcenter{
+  clear: both;
+  width: 900px;
+}
+.middle .middle_bottom .bottomcenter .bottomcenterleft{
+  float: left;
+  width: 280px;
+  height: 30px;
+}
+.middle .middle_bottom .bottomcenter .bottomcenterright{
+  float: left;
+  width: 280px;
+  height: 30px;
+  margin-left: 38px;
+}
+.info{
+  width: 180px;
+}
+.pass{
+  float: left;
+  width: 200px;
+  height: 30px;
+}
+.middle .middle_bottom .bottombottom{
+  clear: both;
+  width: 900px;
+}
+.middle .middle_bottom .bottombottom .bottomfooterleft{
+  float: left;
+  width: 260px;
+  height: 30px;
+}
+.middle .middle_bottom .bottombottom .bottomfooterright{
+  float: left;
+}
+.middle .middle_bottom .addition{
+  clear: both;
+}
+.middle .middle_bottom .addition .left{
+  float: left;
+}
+.userauthor{
+  width: 200px;
+  height: 30px;
+}
+.datetime{
+  width: 180px;
+  height: 30px;
+}
+.btn_bottom{
+  clear: both;
+  width: 1000px;
+  margin-left: 185px;
+}
+
+.btn_bottom .btn{
+  margin:0px 20px 30px 20px;
+}
+.avatar-uploader .el-upload {
+  border: 1px dashed #d9d9d9;
+  border-radius: 6px;
+  cursor: pointer;
+  position: relative;
+  overflow: hidden;
+}
+.avatar-uploader .el-upload:hover {
+  border-color: #409EFF;
+}
+.avatar-uploader-icon {
+  font-size: 28px;
+  color: #8c939d;
+  width: 20px;
+  height: 20px;
+  line-height: 20px;
+  text-align: center;
+}
+.avatar {
+  width: 146px;
+  height: 146px;
+  display: block;
+}
+.dialog-footer{
+  clear: both;
+  margin-right: 53px;
+}

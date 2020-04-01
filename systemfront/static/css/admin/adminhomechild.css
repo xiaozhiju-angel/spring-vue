@@ -1,0 +1,30 @@
+.main{
+ /* width: 1230px;*/
+  height: 810px;
+  margin-left: 180px;
+  margin-top: 60px;
+  border: #d9d9d9 solid 1px;
+}
+.aside{
+  height: 760px;
+  background: #d9d9d9;
+}
+.center{
+  background: #2c3e50;
+
+}
+.footer{
+  background-color: green;
+}
+.shortmessage{
+  margin-left: 33px;
+  font-size: 13px;
+}
+.langmessage{
+  margin-left: 40px;
+  font-size: 13px;
+}
+.titmessage{
+  margin-left: 5px;
+  font-size: 14px;
+}

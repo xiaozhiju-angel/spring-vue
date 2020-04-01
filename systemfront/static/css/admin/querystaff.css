@@ -1,0 +1,43 @@
+
+.message{
+  width:2300px;
+  margin: 0px;
+  padding: 0px;
+
+}
+.keywordsearch{
+  padding: 0px;
+  display:flex;
+  justify-content:space-between;
+  align-items: center;
+}
+.search{
+  width: 300px;
+  margin: 0px;
+  padding: 0px;
+}
+.userlabel{
+  width: 50px;
+}
+.message .title{
+ padding: 20px 0px;
+  height: 60px;
+  background: white;
+  margin-top: 20px;
+}
+.Infodetaile{
+  width: 1200px;
+}
+.end{
+  width: 900px;
+}
+.end .delete{
+  float:left;
+  margin-top: 5px;
+}
+.end .page{
+  text-align: right;
+  margin-top: 50px;
+  float: right;
+}
+

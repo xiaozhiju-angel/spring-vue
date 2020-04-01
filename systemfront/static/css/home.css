@@ -1,0 +1,331 @@
+.total{
+  margin: 0 auto;
+  width: 1380px;
+  background: #d9d9d9;
+  height: 100%;
+}
+.top{
+  width: 1000px;
+  height: 80px;
+  margin: 0 auto;
+  padding-top: 50px;
+}
+.top .left{
+  float: left;
+  height: 70px;
+}
+.top .left .left_top_left{
+
+}
+.top .left .left_top_left img{
+  float: left;
+  width: 50px;
+  height: 50px;
+}
+.top .left .left_top_right{
+  float: left;
+  font-size: 12px;
+  padding-top: 13px;
+}
+.top .left .left_top_right p{
+  margin: 0px;
+
+}
+.top .left .left_top_right .pet_manager{
+  color: #e00eff;
+}
+.top .left .left_top_right .pet_home{
+  color: #409EFF;
+}
+.top .left .left_bottom{
+  clear: both;
+  font-size: 10px;
+  padding-left: 10px;
+  color: #9d7005;
+}
+.top .search{
+  float: left;
+  width: 300px;
+  height: 30px;
+  line-height: 30px;
+  padding-top: 15px;
+  border: 0px;
+  margin-left: 100px;
+  font-size: 13px;
+  align-items: center;
+}
+.top .appendsearch{
+  color: #cea88a;
+  font-size: 12px;
+}
+.right_end{
+  float: right;
+  margin-right: 20px;
+  padding-top: 18px;
+}
+.nav{
+  height: 120px;
+  margin-top: 40px;
+  margin: 0 auto;
+  width: 1000px;
+  margin-top: 30px;
+  align-items: center;
+}
+.nav ul{
+  list-style: none;
+  text-align: center;
+  align-items: center;
+  margin-left: 60px;
+}
+.nav li{
+  padding:0 50px;
+  list-style: none;
+}
+.nav .navinfo{
+  float: left;
+}
+.nav .navinfo p{
+  text-align: center;
+  font-size: 14px;
+  color: #0928ff;
+}
+.nav .navinfo img{
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+.nav .navinfo p a{
+   text-decoration: none;
+   color: #0928ff;
+}
+
+.main{
+  padding-top: 20px;
+  margin: 0 auto;
+  width: 1000px;
+  height: 420px;
+
+}
+.zixun{
+  padding-left: 30px;
+  margin: 0 auto;
+  width: 1000px;
+  font-style: normal;
+}
+/* title img b more divide公用*/
+ .title{
+   text-align: left;
+   display: flex;
+   margin-bottom: 10px;
+   border-radius: 50%;
+   padding-top: 50px;
+}
+.title img{
+  width: 60px;
+  height: 60px;
+}
+ .title b{
+   padding-top: 25px;
+   font-style: italic;
+   font-size: 18px;
+   margin-left: 5px;
+}
+.more{
+  margin-left: 725px;
+  padding-top: 20px;
+  font-size: 14px;
+  color: #720847;
+}
+.divide{
+  margin-top: 50px;
+  background: #9385ff;
+  height: 1px;
+}
+.zixun .infomation{
+  align-items: center;
+}
+.zixun .infomation .first{
+   display: flex;
+   width: 100%;
+   padding: 20px 0;
+}
+
+.zixun  .infomation .first img{
+  margin-left: 50px;
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+}
+.zixun .infomation .first p{
+  width: 660px;
+  text-align: justify;
+  font-size: 13px;
+  margin: 18px;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
+  overflow: hidden;
+}
+.btn_detail{
+  width: 60px;
+  height: 40px;
+  text-align: center;
+  margin: 20px;
+  font-size: 12px;
+}
+.petpicture{
+  height: 500px;
+  padding-left: 30px;
+  margin: 0 auto;
+  width: 1000px;
+}
+.petpicture .top{
+  align-items: center;
+  margin-top: 50px;
+  padding: 0px;
+  height: 150px;
+  }
+.petpicture .top ul{
+   margin-left: 80px;
+}
+.petpicture .top li:nth-child(1){
+  margin: 0;
+  padding-left: 0px;
+}
+.petpicture .top li{
+  float: left;
+  padding:0  50px;
+  list-style: none;
+}
+.petpicture .top li img{
+  width: 80px;
+  height: 80px;
+}
+.petpicture .top li p{
+  font-style: normal;
+  text-align: center;
+  color: #720847;
+  font-size: 14px;
+}
+.petpicture .bottom{
+  clear: both;
+  align-items: center;
+  height: 150px;
+  margin-top: 50px;
+}
+.petpicture .bottom ul{
+  margin-left: 80px;
+}
+.petpicture .bottom li:nth-child(1){
+  margin: 0;
+  padding-left: 0px;
+}
+.petpicture .bottom li{
+  float: left;
+  padding:0  50px;
+  list-style: none;
+}
+.petpicture .bottom li img{
+  width: 80px;
+  height: 80px;
+}
+.petpicture .bottom li p{
+  font-style: normal;
+  text-align: center;
+  color: #720847;
+  font-size: 14px;
+}
+.serve{
+  padding-left: 30px;
+  margin: 0 auto;
+  width: 1000px;
+  height: 480px;
+  font-style: normal;
+}
+
+.serve .picture{
+  margin-top: 50px;
+}
+.serve .picture img{
+  width: 80px;
+  height: 80px;
+}
+.serve .picture .row{
+  margin: 40px 0;
+}
+.end{
+  padding-left: 30px;
+  margin: 0 auto;
+  width: 1000px;
+  height: 500px;
+  font-style: normal;
+}
+.end .endmore{
+  margin-left: 185px;
+  padding-top: 25px;
+  font-size: 14px;
+  color: #720847;
+}
+
+.end .infomation{
+   padding: 25px 40px 10px 40px;
+}
+.end .infomation .pet_type{
+  margin: 25px 0px 0px 0px;
+  font-size: 14px;
+  padding-top: 3px;
+}
+.end .infomation .info{
+   width: 80px;
+   font-size: 13px;
+   height: 25px;
+   line-height: 10px;
+   margin: 25px 25px 25px 10px;
+ }
+.end img{
+  width: 80px;
+  height: 80px;
+}
+.end .food{
+  margin-left: 60px;
+}
+.end .baikeend{
+   width: 360px;
+  height: 140px;
+  line-height: 130px;
+  margin-right: 20px;
+  margin-top: 20px;
+}
+.end .food .info{
+  margin: 25px;
+}
+.end .food .info img{
+
+  border-radius: 50%;
+}
+.first a{
+  text-decoration: none;
+  color: white;
+}
+.endfooter{
+  margin: 0 auto;
+  width: 1000px;
+  height: 50px;
+}
+.endfooter .info{
+  margin: 0px;
+  padding: 0px;
+}
+.endfooter li{
+  list-style: none;
+  float: left;
+  padding: 20px;
+}
+.authority{
+  clear: both;
+  margin-top: 30px;
+}
+.ban{
+  margin-top: 20px;
+  font-size: 12px;
+}

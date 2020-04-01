@@ -1,0 +1,153 @@
+.dialog{
+  width: 1500px;
+}
+.middle{
+  width:620px;
+  height: 250px;
+  margin-left: 30px;
+  align-items: center;
+}
+.middle .middle_top{
+  width: 400px;
+  height: 800px;
+
+}
+.adopt{
+  margin-left: 30px;
+}
+.type{
+  width: 380px;
+  text-align: center;
+}
+.input{
+  width: 380px;
+  height: 30px;
+  padding: 10px;
+}
+.datetime{
+  width: 280px;
+}
+
+.middle .middle_bottom{
+  clear: both;
+  width: 900px;
+  height:150px;
+  margin-top: 10px;
+  align-items: center;
+}
+.middle .middle_bottom .topaddition{
+  clear: both;
+  padding-top: 10px;
+
+}
+.middle .middle_bottom .topaddition .left{
+  float: left;
+
+}
+.middle .middle_bottom .topaddition .right{
+  float: left;
+  margin-left: 36px;
+}
+.middle .middle_bottom .secondaddition{
+  clear: both;
+}
+.middle .middle_bottom .secondaddition .left{
+  float: left;
+
+
+}
+.middle .middle_bottom .secondaddition .right{
+  float: left;
+  margin-left: 72px;
+}
+
+.middle .middle_bottom .bottomtop{
+  clear: both;
+}
+.middle .middle_bottom .bottomtop .left{
+  float: left;
+}
+.middle .middle_bottom .bottomtop .right{
+  float: left;
+  margin-left: 35px;
+}
+.middle .middle_bottom .bottomcenter{
+  clear: both;
+}
+.middle .middle_bottom .bottomcenter .left{
+  float: left;
+}
+.middle .middle_bottom .bottomcenter .right{
+  float: left;
+  margin-left: 35px;
+}
+.pass{
+  float: right;
+  margin-right: 100px;
+  width: 287px;
+  height: 30px;
+}
+.middle .middle_bottom .bottombottom{
+  clear: both;
+}
+.middle .middle_bottom .bottombottom .left{
+  float: left;
+}
+.middle .middle_bottom .bottombottom .right{
+  float: left;
+  margin-left: 26px;
+
+}
+.middle .middle_bottom .addition{
+  clear: both;
+}
+.middle .middle_bottom .addition .left{
+  float: left;
+}
+.middle .middle_bottom .addition .right{
+  float: left;
+  margin-left: 26px;
+}
+.datetime{
+  width: 201px;
+  height: 30px;
+}
+.btn_bottom{
+  clear: both;
+  width: 1000px;
+  margin-left: 185px;
+  padding-top: 20px;
+}
+
+.btn_bottom .btn{
+  margin:0px 20px 30px 20px;
+}
+.dialog-footer{
+  margin-right: 46px;
+}
+.avatar-uploader .el-upload {
+  border: 1px dashed #d9d9d9;
+  border-radius: 6px;
+  cursor: pointer;
+  position: relative;
+  overflow: hidden;
+}
+.avatar-uploader .el-upload:hover {
+  border-color: #409EFF;
+}
+.avatar-uploader-icon {
+  font-size: 28px;
+  color: #8c939d;
+  width: 20px;
+  height: 20px;
+  line-height: 20px;
+  text-align: center;
+}
+.avatar {
+  width: 146px;
+  height: 146px;
+  display: block;
+  margin-top: 12px;
+}
+
+

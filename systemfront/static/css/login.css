@@ -1,0 +1,78 @@
+.loginpage{
+  margin: 50px 300px;
+  width: 1000px;
+  height:650px;
+  background: #b5d9d9;
+}
+.goback{
+  margin-left: 270px;
+  font-size: 16px;
+  color: white;
+}
+.top{
+  width: 1000px;
+  height: 30px;
+  text-align: left;
+  padding-top: 100px;
+}
+.top .el-icon-close{
+  margin-left: 270px;
+}
+.top .register{
+  margin-left: 360px;
+  font-size: 16px;
+  color: white;
+}
+.header{
+  width: 1000px;
+  height: 40px;
+  text-align: center;
+  margin-top: 50px;
+}
+.header .header_title{
+  font-size: 18px;
+  color: #ff1638;
+}
+.header img{
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
+.main{
+  width: 920px;
+  height: 280px;
+  text-align: center;
+  margin-top: 80px;
+}
+.main .authority{
+  text-align: left;
+}
+.main .demo-ruleForm{
+  padding: 0px 260px;
+  text-align: center;
+}
+.main .user{
+  margin-right: 450px;
+}
+.btn_login{
+  font-size: 13px;
+}
+.reset{
+  margin-left: 25px;
+  color: #bc878a;
+  font-size: 13px;
+}
+.end{
+  width: 1000px;
+  text-align: left;
+}
+.end .message_login{
+  margin-left: 250px;
+  font-size: 14px;
+  color: #bc5466;
+}
+.end .forget_pass{
+  margin-left: 630px;
+  font-size: 14px;
+  color: #bc5466;
+}

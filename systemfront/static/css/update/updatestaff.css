@@ -1,0 +1,122 @@
+
+.total{
+  width: 1000px;
+  height: 800px;
+  margin: 50px auto;
+  align-items: center;
+  background: #d9d9d9;
+}
+.total .Infodetaile{
+  width: 900px;
+  margin: 30px;
+  padding: 30px;
+}
+.header{
+  margin-top: 50px;
+  width: 250px;
+  height: 250px;
+  float: left;
+}
+.top{
+  height: 120px;
+}
+/*.header .name{
+   float: left;
+   margin-top: 20px;
+ }*/
+.picture{
+  float: right;
+  width:300px;
+  height: 250px;
+  margin-top: 50px;
+ /* border: #3568bc solid 1px;*/
+  margin-left: 150px;
+}
+.picture img{
+  width:200px;
+  height: 200px;
+}
+.header{
+  margin-left: 60px;
+}
+.header .info{
+  width: 300px;
+  padding: 3px 0px;
+}
+.userimg{
+  padding-top:16px;
+}
+.main{
+  margin-left: 60px;
+}
+.center{
+  clear: both;
+  padding-top: 30px;
+  height:30px;
+}
+.center  .centerleft{
+  width: 300px;
+  height: 30px;
+
+  float: left;
+}
+.center .centerright{
+  width: 300px;
+  height:30px;
+  margin-right: 35px;
+  float: right;
+}
+.middle{
+  clear: both;
+  padding-top: 30px;
+  height:30px;
+}
+.middle  .middleleft{
+  width: 350px;
+  height: 30px;
+  float: left;
+}
+.middle .middleright{
+  width: 350px;
+  height: 30px;
+  margin-left: 50px;
+  float: left;
+}
+.login {
+  clear: both;
+  padding-top: 30px;
+  height:30px;
+}
+.login  .loginleft{
+  height: 30px;
+  float: left;
+}
+.login  .loginright{
+  width: 300px;
+  height: 30px;
+  margin-right: 35px;
+  float: right;
+}
+.authority{
+  clear: both;
+  padding-top: 30px;
+  height:30px;
+}
+.authority .authorityleft{
+  width: 250px;
+  height: 30px;
+  float: left;
+}
+.authority .authorityright{
+  height: 30px;
+  float: left;
+}
+.dialog-footer{
+  clear: both;
+  text-align: right;
+  padding: 30px;
+}
+.reset{
+  margin-right:20px;
+  margin-left: 20px;
+}

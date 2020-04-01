@@ -1,0 +1,33 @@
+.middle{
+  width: 600px;
+  height: 500px;
+  align-items: center;
+  margin: 50px auto;
+}
+.middle .middle_top{
+  width: 500px;
+  height: 600px;
+  padding-top: 60px;
+}
+.input{
+  width: 360px;
+  height: 30px;
+  padding: 10px;
+}
+.datetime{
+  width: 260px;
+}
+/*.adopt{
+  margin-left: 20px;
+}*/
+
+
+.btnbottom{
+
+}
+
+.btn_bottom .btn{
+
+
+}
+

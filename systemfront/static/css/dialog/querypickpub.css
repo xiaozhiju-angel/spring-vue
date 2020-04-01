@@ -1,0 +1,161 @@
+.dialog{
+  width: 1500px;
+}
+.middle{
+  width: 600px;
+  height: 460px;
+  margin-left: 50px;
+}
+/*.middle{
+  width:620px;
+  height: 300px;
+  align-items: center;
+}*/
+.middle .middle_top{
+  width: 600px;
+  height: 200px;
+}
+.middle .middle_top .middle_left{
+  float:left;
+}
+.middle .middle_top .middle_left .elformitem{
+  text-align: left;
+}
+.middle .middle_top .middle_right{
+  float:right;
+}
+.middle .middle_top .middle_right .imgdes{
+  margin-top: 30px;
+  color: rosybrown;
+}
+
+.adopt{
+  margin-left: 30px;
+}
+.type{
+  width: 380px;
+  text-align: center;
+}
+.input{
+  width: 380px;
+  height: 30px;
+}
+.datetime{
+  width: 280px;
+}
+
+.middle .middle_bottom{
+  clear: both;
+  width: 900px;
+  height:150px;
+  align-items: center;
+}
+.middle .middle_bottom .topaddition{
+  clear: both;
+
+}
+.middle .middle_bottom .topaddition .left{
+  float: left;
+
+}
+.middle .middle_bottom .topaddition .right{
+  float: left;
+  margin-left: 28px;
+}
+.middle .middle_bottom .secondaddition{
+  clear: both;
+}
+.middle .middle_bottom .secondaddition .left{
+  float: left;
+
+}
+.middle .middle_bottom .secondaddition .right{
+  float: left;
+  margin-left: 28px;
+}
+
+.middle .middle_bottom .bottomtop{
+  clear: both;
+}
+.middle .middle_bottom .bottomtop .left{
+  float: left;
+
+}
+.middle .middle_bottom .bottomtop .right{
+  float: left;
+  margin-left: 28px;
+}
+.middle .middle_bottom .bottomcenter{
+  clear: both;
+}
+.middle .middle_bottom .bottomcenter .left{
+  float: left;
+}
+.middle .middle_bottom .bottomcenter .right{
+  float: left;
+  margin-left: 28px;
+}
+.middle .middle_bottom .bottombottom{
+  clear: both;
+}
+.middle .middle_bottom .bottombottom .left{
+  float: left;
+}
+.middle .middle_bottom .bottombottom .right{
+  float: left;
+  margin-left: 326px;
+
+}
+.middle .middle_bottom .addition{
+  clear: both;
+}
+.middle .middle_bottom .addition .left{
+  float: left;
+}
+.middle .middle_bottom .addition .right{
+  float: right;
+  margin-right: 110px;
+}
+.datetime{
+  width: 201px;
+  height: 30px;
+}
+.btn_bottom{
+  clear: both;
+  width: 1000px;
+  float: right;
+  margin-left: 185px;
+}
+
+.btn_bottom .btn{
+  margin:0px 20px 30px 20px;
+}
+.dialog-footer{
+  margin-right: 28px;
+}
+.avatar-uploader .el-upload {
+  border: 1px dashed #d9d9d9;
+  border-radius: 6px;
+  cursor: pointer;
+  position: relative;
+  overflow: hidden;
+}
+.avatar-uploader .el-upload:hover {
+  border-color: #409EFF;
+}
+.avatar-uploader-icon {
+  font-size: 28px;
+  color: #8c939d;
+  width: 20px;
+  height: 20px;
+  line-height: 20px;
+  text-align: center;
+}
+.avatar {
+  width: 146px;
+  height: 146px;
+  display: block;
+  margin-top: 12px;
+}
+
+

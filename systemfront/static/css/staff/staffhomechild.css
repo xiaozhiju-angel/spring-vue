@@ -1,0 +1,26 @@
+.main{
+  width: 1250px;
+  margin-left: 180px;
+  margin-top: 60px;
+  border: #d9d9d9 solid 1px;
+}
+.aside{
+  height: 760px;
+  background: #d9d9d9;
+}
+.center{
+  background: #2c3e50;
+
+}
+.footer{
+  background-color: green;
+}
+.shortmessage{
+  margin-left: 33px;
+}
+.langmessage{
+  margin-left: 40px;
+}
+.titmessage{
+  margin-left: 5px;
+}

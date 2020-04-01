@@ -1,0 +1,21 @@
+
+.message{
+  width:2800px;
+  margin: 0px;
+  padding: 0px;
+  background: #adcecd;
+}
+.keywordsearch{
+  padding: 0px;
+  display:flex;
+  justify-content:space-between;
+  align-items: center;
+}
+.search{
+  width: 300px;
+  margin: 0px;
+  padding: 0px;
+}
+.userlabel{
+  width: 50px;
+}

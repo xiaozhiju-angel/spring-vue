@@ -1,0 +1,82 @@
+#register{
+  margin: 0px auto;
+  width: 1380px;
+  height: 1000px;
+  padding:10px 50px;
+  background: #adcecd;
+}
+#top{
+  width: 1020px;
+  margin-left: 180px;
+  height: 40px;
+}
+#top .top_left{
+  float: left;
+  align-items: center;
+  margin-left: 30px;
+
+}
+#top .top_left img{
+  width: 40px;
+  height: 40px;
+  margin: 12px 5px 2px 10px;
+  border-radius: 2px;
+  border-radius: 50%;
+}
+#top .top_left .des{
+  height: 30px;
+  line-height: 10px;
+  font-size: 18px;
+  color: #ff058c;
+}
+#top .top_right{
+  float: right;
+  margin-right: 30px;
+  padding-top: 20px;
+}
+#top .top_right .exit{
+  font-size: 18px;
+  font-style: oblique;
+  color: #ff075d;
+
+}
+#header{
+  width: 1020px;
+  height: 50px;
+  margin-left: 180px;
+  align-items: center;
+}
+#header .header_title{
+  font-size: 20px;
+  color: crimson;
+  text-align: center;
+
+}
+.block{
+  width: 1020px;
+  height: 50px;
+  margin-top: 50px;
+  text-align: left;
+  margin-left: 205px;
+}
+
+.block .demonstration{
+  margin-left: 50px;
+  margin-right: 10px;
+  color: #ff058c;
+}
+.regcenter{
+  height: 600px;
+  background: #d9d9d9;
+}
+.end{
+  width: 1020px;
+  clear: both;
+  margin-left: 180px;
+  height: 40px;
+  margin-top: 30px;
+  background: #ff075d;
+}
+.blue{
+  background: #d9d9d9;
+}
